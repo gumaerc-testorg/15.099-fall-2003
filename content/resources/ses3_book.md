@@ -6,8 +6,13 @@ description: 'Summary presentation based on: Clarkson, Kenneth L. Las Vegas Algo
   IEEE Symposium on Foundations of Computer Science, 1988. and Chapter 9 of: Motwani,
   Rajeev, and Prabhakar Raghavan. Randomized Algorithms. Cambridge, UK: Cambridge
   University Press, 1995.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-099-readings-in-optimization-fall-2003/447811ef5d267f866da5abf01d028742_ses3_book.pdf
+file: /media/courses/15-099-readings-in-optimization-fall-2003/447811ef5d267f866da5abf01d028742_ses3_book.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: I. Integer programming part of Clarkson-paper; II. Incremental Linear Programming,
   Section 9.10.1 in Randomized Algorithms-book

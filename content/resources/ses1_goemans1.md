@@ -3,8 +3,13 @@ content_type: resource
 description: Lecture presentation on an alternate view of linear programming, symmetric
   and semidefinite matrices, SDP, SDP duality, approximately solving MAXCUT using
   SDP and random vectors, and interior-point methods for SDP.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-099-readings-in-optimization-fall-2003/a837b244b710301b020bab0dd9a92a71_ses1_goemans1.pdf
+file: /media/courses/15-099-readings-in-optimization-fall-2003/a837b244b710301b020bab0dd9a92a71_ses1_goemans1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Semidefinite Programming (SDP) and the Goemans-Williamson MAXCUT Paper
 uid: a837b244-b710-301b-020b-ab0dd9a92a71
