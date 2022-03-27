@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 76a0e948-3ff4-80d7-19d1-1e8735c96df7
 resourcetype: Document
 title: 'Differential Evolution: a stochastic nonlinear optimization algorithm by Storn
   and Price, 1996'
