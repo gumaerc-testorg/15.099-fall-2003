@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides full bibliographic citations of assigned readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
