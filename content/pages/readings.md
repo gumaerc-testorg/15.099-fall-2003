@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides full bibliographic citations of assigned readings.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 0c5abf61-2eb0-5e72-447d-42ccdc6d91c8
 ---

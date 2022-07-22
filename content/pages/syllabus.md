@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides a course overview and information on meeting
+  times, format, grades, and session coverage.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 17ab7f3a-9bb2-5ae9-a50c-a8653e9c376b
 ---
@@ -31,4 +35,4 @@ Since this is an advanced seminar, grading and distinguishing between student pe
 Session Coverage
 ----------------
 
-Since this is an informal seminar, we do not typically keep to any fixed schedule. If we find that we need more time for a paper once we are discussing it, then we will typically extend the discussion to the next session and delay subsequent sessions. Or, if someone discovers some new material that we might like to discuss, then we might add that to the agenda. The [calendar]({{< baseurl >}}/pages/calendar) provides an outline of the coverage for the course sessions.
+Since this is an informal seminar, we do not typically keep to any fixed schedule. If we find that we need more time for a paper once we are discussing it, then we will typically extend the discussion to the next session and delay subsequent sessions. Or, if someone discovers some new material that we might like to discuss, then we might add that to the agenda. The {{% resource_link ac9d38e3-02ab-0db9-8f88-99a28e0ad9e2 "calendar" %}} provides an outline of the coverage for the course sessions.
