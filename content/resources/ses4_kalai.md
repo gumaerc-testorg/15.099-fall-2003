@@ -8,6 +8,7 @@ file: /courses/15-099-readings-in-optimization-fall-2003/085bdedf922416c74a2b31a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: Polytopes, their diameter, and randomized simplex
 uid: 085bdedf-9224-16c7-4a2b-31a620457eb9
 ---
 Summary presentation based on two papers: Kalai, Gil. "A Subexponential Randomized Simplex Algorithm (Extended Abstract)." In Proceedings of the 24th Annual Association for Computing Machinery Symposium on Theory of Computing. New York, NY: ACM Press, 1992.
-

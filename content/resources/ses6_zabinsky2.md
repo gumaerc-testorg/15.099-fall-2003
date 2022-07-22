@@ -7,6 +7,7 @@ file: /courses/15-099-readings-in-optimization-fall-2003/1d77114d9a5461654a87fdb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Pure Adaptive Search in Global Optimization
 uid: 1d77114d-9a54-6165-4a87-fdb4b9ec45f5
 ---
 Summary presentation based on: Zabinsky, Zelda B., and Robert L. Smith. "Pure Adaptive Search in Global Optimization." Mathematical Programming 55 (1992): 323-38.
-

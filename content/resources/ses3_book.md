@@ -10,6 +10,7 @@ file: /courses/15-099-readings-in-optimization-fall-2003/447811ef5d267f866da5abf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: I. Integer programming part of Clarkson-paper; II. Incremental Linear Pro
 uid: 447811ef-5d26-7f86-6da5-abf01d028742
 ---
 Summary presentation based on: Clarkson, Kenneth L. Las Vegas Algorithms for Linear and Integer Programming When the Dimension is Small. Journal of the ACM 42(2), March 1995, pp. 488-499. Preliminary version in Proceedings of the 29th Annual IEEE Symposium on Foundations of Computer Science, 1988. and Chapter 9 of: Motwani, Rajeev, and Prabhakar Raghavan. Randomized Algorithms. Cambridge, UK: Cambridge University Press, 1995.
-
