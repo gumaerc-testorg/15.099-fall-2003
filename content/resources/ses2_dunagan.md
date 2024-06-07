@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on the Perceptron algorithm, condition number, randomized
   rescaling, and the randomized rescaling algorithm.
 file: /courses/15-099-readings-in-optimization-fall-2003/3e9ff3c64a892f177385bb9fd1244786_ses2_dunagan.pdf
+file_size: 148830
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

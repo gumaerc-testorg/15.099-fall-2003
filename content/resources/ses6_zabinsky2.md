@@ -4,6 +4,7 @@ description: 'Summary presentation based on: Zabinsky, Zelda B., and Robert L. S
   "Pure Adaptive Search in Global Optimization." Mathematical Programming 55 (1992):
   323-38.'
 file: /courses/15-099-readings-in-optimization-fall-2003/1d77114d9a5461654a87fdb4b9ec45f5_ses6_zabinsky2.pdf
+file_size: 89596
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -7,6 +7,7 @@ description: 'Summary presentation based on: Clarkson, Kenneth L. Las Vegas Algo
   Rajeev, and Prabhakar Raghavan. Randomized Algorithms. Cambridge, UK: Cambridge
   University Press, 1995.'
 file: /courses/15-099-readings-in-optimization-fall-2003/447811ef5d267f866da5abf01d028742_ses3_book.pdf
+file_size: 227256
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
