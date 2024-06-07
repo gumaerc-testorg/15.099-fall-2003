@@ -4,6 +4,7 @@ description: Lecture presentation on an alternate view of linear programming, sy
   and semidefinite matrices, SDP, SDP duality, approximately solving MAXCUT using
   SDP and random vectors, and interior-point methods for SDP.
 file: /courses/15-099-readings-in-optimization-fall-2003/a837b244b710301b020bab0dd9a92a71_ses1_goemans1.pdf
+file_size: 808334
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
