@@ -3,7 +3,7 @@ content_type: resource
 description: 'Summary presentation based on: Storn, Rainer, and Kenneth Price. "Differential
   Evolution - A Simple and Efficient Heuristic for Global Optimization over Continuous
   Spaces." Journal of Global Optimization 11 (1997): 341-59.'
-file: /ol-ocw-studio-app/courses/15-099-readings-in-optimization-fall-2003/c5b8927f32a15cab2545d57397d3cabb_ses2_storn_price.pdf
+file: /courses/15-099-readings-in-optimization-fall-2003/c5b8927f32a15cab2545d57397d3cabb_ses2_storn_price.pdf
 file_size: 66418
 file_type: application/pdf
 learning_resource_types:
