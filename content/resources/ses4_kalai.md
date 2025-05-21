@@ -4,7 +4,7 @@ description: 'Summary presentation based on two papers: Kalai, Gil. "A Subexpone
   Randomized Simplex Algorithm (Extended Abstract)." In Proceedings of the 24th Annual
   Association for Computing Machinery Symposium on Theory of Computing. New York,
   NY: ACM Press, 1992.'
-file: /ol-ocw-studio-app/courses/15-099-readings-in-optimization-fall-2003/085bdedf922416c74a2b31a620457eb9_ses4_kalai.pdf
+file: /courses/15-099-readings-in-optimization-fall-2003/085bdedf922416c74a2b31a620457eb9_ses4_kalai.pdf
 file_size: 290371
 file_type: application/pdf
 learning_resource_types:

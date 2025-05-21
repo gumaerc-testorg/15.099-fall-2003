@@ -2,7 +2,7 @@
 content_type: resource
 description: Discusses Solis & Wets Paper and provides an Introduction to Sampling
   Methods.
-file: /ol-ocw-studio-app/courses/15-099-readings-in-optimization-fall-2003/11c27c87ad84545ea4858c87a60c6e19_ses5_solis_wets.pdf
+file: /courses/15-099-readings-in-optimization-fall-2003/11c27c87ad84545ea4858c87a60c6e19_ses5_solis_wets.pdf
 file_size: 156953
 file_type: application/pdf
 learning_resource_types:
